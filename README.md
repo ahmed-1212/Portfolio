@@ -1,10 +1,12 @@
 # Portfolio
 
-`Classified Website for online marketing`
+`My main website for my personal work and skills and services`
 
-`This project was build for a company in kuwait for online marketing i was responsible for designing the website  and developing the front-end of the website`
+`This website is my main, you can view all my work and skills and services and projects and education and can download my resume.`
 
-## What i used to build this project
+`This web site is SEO Optimized with sitemap and SEO Fundamentals and Essentials.`
+
+## What i used to build this website
 
 * HTML5
 * CSS3
@@ -12,7 +14,9 @@
 * Jquery
 * SASS
 * Bootstrap 4
-* Jekyll
-* webpack
+* Gulp
+* Vue.js
+* JSON
+
 
 
