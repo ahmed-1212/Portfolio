@@ -1,0 +1,67 @@
+.changer
+    position: fixed
+    top: 30%
+    left: -150px
+    width: 150px
+    height: 85px
+    background-color: #616161
+    display: flex
+    justify-content: center
+    align-items: center
+    box-sizing: border-box
+    z-index: 10
+    @include transition(all .5s ease-in-out)
+    div
+        width: 40px 
+        height: 40px
+        background-color: #000000
+        margin-right: 10px
+        cursor: pointer
+        &:hover
+            &:after
+                bottom: 4px
+                opacity: 1
+        &:after
+            font-family: 'Nunito Sans', sans-serif 
+            content: "Dark"
+            font-size: 9px
+            color: #000
+            position: absolute
+            bottom: 20px
+            opacity: 0
+            margin-left: 6px
+            text-transform: uppercase
+            font-weight: bold  
+            @include transition(all .5s ease-in-out)
+      
+
+    .white
+        background-color: #fff
+        &:after
+            content: 'Light'
+            color: #fff
+    .spiner
+        width: 40px
+        height: 50px
+        position: absolute
+        right: -40px
+        top: 19px
+        display: inline-block
+        background-color: #616161
+        text-align: center
+        line-height: 50px
+        color: $mainC
+        cursor: pointer
+        i
+            animation: spin 1s infinite forwards
+
+.show
+    left: 0
+
+@keyframes spin
+    0%
+        transform: rotate(0deg)
+    50%
+        transform: rotate(180deg)
+    100%
+        transform: rotate(360deg)

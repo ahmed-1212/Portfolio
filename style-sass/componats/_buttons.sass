@@ -1,0 +1,31 @@
+//General Button
+
+.btn
+    background-color: #000
+    padding: 15px 70px
+    border-radius: 5px
+    border: 1px solid #000
+    font-weight: 600
+    @include transition (all .6s ease-in-out)
+    &:hover
+        background-color: #FFF
+        color: #000
+        border: 1px Solid $mainC
+        
+.contact
+    .btn
+        outline: none
+        padding: 15px 10px
+        font-size: 12px
+        color: #fff
+        background: #000000
+        width: 100%
+        border: none
+        letter-spacing: 2px
+        text-transform: uppercase
+        border-radius: 5px
+        @include transition (all .6s ease-in-out)
+        &:hover
+            background-color: $mainC
+            color: #000
+        

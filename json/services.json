@@ -1,0 +1,45 @@
+[
+    {
+        "alt":    "services-one",
+        "serviceImage": "images/services/webdesign.png",
+        "serviceNum": "01",
+        "service": "UI & UX Web Design"
+
+    },
+    {
+        "alt":    "services-tow",
+        "serviceImage": "images/services/shield.png",
+        "serviceNum": "02",
+        "service": "Save & Reusable Code"
+
+    },
+    {
+        "alt":    "services-three",
+        "serviceImage": "images/services/seo.png",
+        "serviceNum": "03",
+        "service": "SEO OPTIMIZED"
+
+    },
+    {
+        "alt":    "services-four",
+        "serviceImage": "images/services/smartphone.png",
+        "serviceNum": "04",
+        "service": "Responsive Designs"
+
+    },
+    {
+        "alt":    "services-five",
+        "serviceImage": "images/services/clean-code.png",
+        "serviceNum": "05",
+        "service": "Clean Code"
+
+    },
+    {
+        "alt":    "services-six",
+        "serviceImage": "images/services/headphones.png",
+        "serviceNum": "06",
+        "service": "FAST SUPPORT Any Time"
+
+    }
+
+]
