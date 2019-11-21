@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from './Sections/Header';
-import Aux from '../../../hoc/Aux'
+import Aux from '../../../hoc/hoc'
 import MyWork from './Sections/MyWork/MyWork';
 import Companies from '../Home/Sections/MyWork/Companies';
 import Skills from './Sections/Skills';
