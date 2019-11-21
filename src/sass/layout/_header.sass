@@ -1,0 +1,56 @@
+//Header
+
+header
+    background: url(http://www.ahmeddafer.me/old/images/header/header-img.jpg)center center no-repeat fixed
+    @include background-size (cover)
+    height: 100vh
+    @media(max-width: 767px)
+        height: 920px !important
+    @media(max-width: 576px)
+        height: 100vh !important
+    @media(max-width: 425px)
+        height: 850px !important
+    .over
+        background-image: url(http://www.ahmeddafer.me/old/images/header/patern.png)
+        background-color: rgba(0, 0, 0, .7)
+        background-position: initial
+        background-repeat: repeat
+        height: 100vh
+        color: #FFF
+        display: flex
+        flex-direction: column
+        justify-content: center
+        @media(max-width: 767px)
+            height: 100%
+        .main-text
+            position: relative
+            top: 40px
+            @media(max-width: 425px)
+                top: 30px
+            h1,
+            h2
+                font-size: 60px
+                @include max850
+                    font-size: 50px
+                @include max576
+                    font-size: 30px
+                .colord
+                    color: $mainC
+            p
+                line-height: 1.8
+                width: 78%
+                text-align: left
+                margin: 20px auto 40px
+                color: #d0caca
+                text-transform: capitalize
+                font-size: 18px
+                @include max576
+                    font-size: 16px
+
+.light header
+    background: url(http://www.ahmeddafer.me/old/images/header/header2.jpeg)center center no-repeat fixed
+    @include background-size (cover)
+    height: 100vh
+                
+        
+        

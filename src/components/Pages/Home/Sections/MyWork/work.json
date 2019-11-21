@@ -1,0 +1,82 @@
+[
+    {
+        "alt":    "kilshayclick",
+        "mokup": "http://www.ahmeddafer.me/old/images/work/work-kilshayclick.png",
+        "webName": "https://sa.kilshayclick.com/old/",
+        "workName": "kilshayclick",
+        "workType": "Design, Development, Responsive Design",
+        "classes": "work-cards"
+
+    },
+    {
+        "alt":    "kilshayclick-V2",
+        "mokup": "http://www.ahmeddafer.me/old/images/work/kilshay-v2.jpg",
+        "webName": "https://sa.kilshayclick.com",
+        "workName": "kilshayclick-V2",
+        "workType": "Design, Development, Responsive Design",
+        "classes": "work-cards kilshay-v2"
+
+    },
+    {
+        "alt":    "who",
+        "mokup": "http://www.ahmeddafer.me/old/images/work/work-who.png",
+        "webName": "http://ahmeddafer.me/who/",
+        "workName": "WHO",
+        "workType": "Design, Development, Responsive Design",
+        "classes": "work-cards"
+
+    },
+    {
+        "alt":    "salon",
+        "mokup": "http://www.ahmeddafer.me/old/images/work/work-salon.png",
+        "webName": "http://www.ahmeddafer.me/salon/index.html",
+        "workName": "Salon",
+        "workType": "Development, Responsive Design",
+        "classes": "work-cards"
+
+    },
+    {
+        "alt":    "Kerri",
+        "mokup": "http://www.ahmeddafer.me/old/images/work/work-kerri.png",
+        "webName": "http://www.ahmeddafer.me/kerri/index.html",
+        "workName": "Kerri",
+        "workType": "Development, Responsive Design",
+        "classes": "work-cards"
+
+    },
+    {
+        "alt":    "prowess",
+        "mokup": "http://www.ahmeddafer.me/old/images/work/work-powers.png",
+        "webName": "http://al-toama.com/themes/prowess/",
+        "workName": "Prowess Fitness Website",
+        "workType": "Development, Responsive Design",
+        "classes": "work-cards"
+
+    },
+    {
+        "alt":    "gameforest",
+        "mokup": "http://www.ahmeddafer.me/old/images/work/work-gameforest.png",
+        "webName": "http://al-toama.com/themes/gameforest/",
+        "workName": "Gameforest",
+        "workType": "Development, Responsive Design",
+        "classes": "work-cards"
+
+    },
+    {
+        "alt":    "elba-app",
+        "mokup": "http://www.ahmeddafer.me/old/images/work/work-elba-app.png",
+        "webName": "https://play.google.com/store/apps/details?id=com.elba.app&hl=en_US",
+        "workName": "Elba App Mobile Design",
+        "workType": "Design, Development",
+        "classes": "work-cards"
+    },
+    {
+        "alt":    "al-toama",
+        "mokup": "http://www.ahmeddafer.me/old/images/work/al-toama.jpg",
+        "webName": "https://www.al-toama.com",
+        "workName": "Altoama Main Website",
+        "workType": "Design, Development",
+        "classes": "work-cards"
+    }
+   
+]
